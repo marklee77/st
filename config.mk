@@ -4,7 +4,7 @@ VERSION = 0.5
 # Customize below to fit your system
 
 # paths
-PREFIX = /usr/local
+PREFIX = ${HOME}/Programs/pkgs/st-git
 MANPREFIX = ${PREFIX}/share/man
 
 X11INC = /usr/X11R6/include
